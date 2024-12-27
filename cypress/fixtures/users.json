@@ -8,7 +8,7 @@
     "password": "admin123"
   },
   "invalid": {
-    "username": "nouser-change2",
+    "username": "for reset",
     "password": "Admin"
   }
 }
